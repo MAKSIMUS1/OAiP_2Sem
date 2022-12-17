@@ -1,0 +1,44 @@
+﻿Сборка начата 21.02.2022 17:17:35.
+Уровень детализации журнала: Normal.     1>Проект "D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\2 СЕМЕСТР\Лабараторные\Лабараторная #1\Lab_1_sem_2\Lab_1_Dop_1_sem_2\Lab_1_Dop_1_sem_2.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\Lab_1_Do.72a93d45.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt Lab_1_Dop_1_sem_2.cpp
+         Lab_1_Dop_1_sem_2.cpp
+     1>D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\2 СЕМЕСТР\Лабараторные\Лабараторная #1\Lab_1_sem_2\Lab_1_Dop_1_sem_2\Lab_1_Dop_1_sem_2.cpp(11,23): warning C4305: инициализация: усечение из "double" в "float"
+     1>D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\2 СЕМЕСТР\Лабараторные\Лабараторная #1\Lab_1_sem_2\Lab_1_Dop_1_sem_2\Lab_1_Dop_1_sem_2.cpp(12,27): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\2 СЕМЕСТР\Лабараторные\Лабараторная #1\Lab_1_sem_2\Lab_1_Dop_1_sem_2\Lab_1_Dop_1_sem_2.cpp(13,27): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\2 СЕМЕСТР\Лабараторные\Лабараторная #1\Lab_1_sem_2\Lab_1_Dop_1_sem_2\Lab_1_Dop_1_sem_2.cpp(19,23): warning C4305: инициализация: усечение из "double" в "float"
+     1>D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\2 СЕМЕСТР\Лабараторные\Лабараторная #1\Lab_1_sem_2\Lab_1_Dop_1_sem_2\Lab_1_Dop_1_sem_2.cpp(20,27): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\2 СЕМЕСТР\Лабараторные\Лабараторная #1\Lab_1_sem_2\Lab_1_Dop_1_sem_2\Lab_1_Dop_1_sem_2.cpp(21,27): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\2 СЕМЕСТР\Лабараторные\Лабараторная #1\Lab_1_sem_2\Lab_1_Dop_1_sem_2\Lab_1_Dop_1_sem_2.cpp(26,16): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+     1>D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\2 СЕМЕСТР\Лабараторные\Лабараторная #1\Lab_1_sem_2\Lab_1_Dop_1_sem_2\Lab_1_Dop_1_sem_2.cpp(29,13): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+     1>D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\2 СЕМЕСТР\Лабараторные\Лабараторная #1\Lab_1_sem_2\Lab_1_Dop_1_sem_2\Lab_1_Dop_1_sem_2.cpp(63,22): warning C4018: <: несоответствие типов со знаком и без знака
+     1>D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\2 СЕМЕСТР\Лабараторные\Лабараторная #1\Lab_1_sem_2\Lab_1_Dop_1_sem_2\Lab_1_Dop_1_sem_2.cpp(72,22): warning C4018: <: несоответствие типов со знаком и без знака
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\2 СЕМЕСТР\Лабараторные\Лабараторная #1\Lab_1_sem_2\Debug\Lab_1_Dop_1_sem_2.exe" /INCREMENTAL /ILK:"Debug\Lab_1_Dop_1_sem_2.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\2 СЕМЕСТР\Лабараторные\Лабараторная #1\Lab_1_sem_2\Debug\Lab_1_Dop_1_sem_2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\2 СЕМЕСТР\Лабараторные\Лабараторная #1\Lab_1_sem_2\Debug\Lab_1_Dop_1_sem_2.lib" /MACHINE:X86 Debug\Lab_1_Dop_1_sem_2.obj
+         Lab_1_Dop_1_sem_2.vcxproj -> D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\2 СЕМЕСТР\Лабараторные\Лабараторная #1\Lab_1_sem_2\Debug\Lab_1_Dop_1_sem_2.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Lab_1_Do.72a93d45.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Lab_1_Do.72a93d45.tlog\Lab_1_Dop_1_sem_2.lastbuildstate".
+     1>Сборка проекта "D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\2 СЕМЕСТР\Лабараторные\Лабараторная #1\Lab_1_sem_2\Lab_1_Dop_1_sem_2\Lab_1_Dop_1_sem_2.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\2 СЕМЕСТР\Лабараторные\Лабараторная #1\Lab_1_sem_2\Lab_1_Dop_1_sem_2\Lab_1_Dop_1_sem_2.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\2 СЕМЕСТР\Лабараторные\Лабараторная #1\Lab_1_sem_2\Lab_1_Dop_1_sem_2\Lab_1_Dop_1_sem_2.cpp(11,23): warning C4305: инициализация: усечение из "double" в "float"
+         D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\2 СЕМЕСТР\Лабараторные\Лабараторная #1\Lab_1_sem_2\Lab_1_Dop_1_sem_2\Lab_1_Dop_1_sem_2.cpp(12,27): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+         D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\2 СЕМЕСТР\Лабараторные\Лабараторная #1\Lab_1_sem_2\Lab_1_Dop_1_sem_2\Lab_1_Dop_1_sem_2.cpp(13,27): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+         D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\2 СЕМЕСТР\Лабараторные\Лабараторная #1\Lab_1_sem_2\Lab_1_Dop_1_sem_2\Lab_1_Dop_1_sem_2.cpp(19,23): warning C4305: инициализация: усечение из "double" в "float"
+         D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\2 СЕМЕСТР\Лабараторные\Лабараторная #1\Lab_1_sem_2\Lab_1_Dop_1_sem_2\Lab_1_Dop_1_sem_2.cpp(20,27): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+         D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\2 СЕМЕСТР\Лабараторные\Лабараторная #1\Lab_1_sem_2\Lab_1_Dop_1_sem_2\Lab_1_Dop_1_sem_2.cpp(21,27): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+         D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\2 СЕМЕСТР\Лабараторные\Лабараторная #1\Lab_1_sem_2\Lab_1_Dop_1_sem_2\Lab_1_Dop_1_sem_2.cpp(26,16): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+         D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\2 СЕМЕСТР\Лабараторные\Лабараторная #1\Lab_1_sem_2\Lab_1_Dop_1_sem_2\Lab_1_Dop_1_sem_2.cpp(29,13): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+         D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\2 СЕМЕСТР\Лабараторные\Лабараторная #1\Lab_1_sem_2\Lab_1_Dop_1_sem_2\Lab_1_Dop_1_sem_2.cpp(63,22): warning C4018: <: несоответствие типов со знаком и без знака
+         D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\2 СЕМЕСТР\Лабараторные\Лабараторная #1\Lab_1_sem_2\Lab_1_Dop_1_sem_2\Lab_1_Dop_1_sem_2.cpp(72,22): warning C4018: <: несоответствие типов со знаком и без знака
+
+    Предупреждений: 10
+    Ошибок: 0
+
+Прошло времени 00:00:02.01
